@@ -17,13 +17,13 @@ On Ruby < 1.9, use:
 Dependencies
 ------------
 
-* redcarpet
-* github-markup 
+* [redcarpet](http://rubygems.org/gems/redcarpet)
+* [github-markup](http://rubygems.org/gems/github-markup)
 
 Install with `gem install redcarpet github-markup`
 
 License
 -------
 
-This utility is licensed as github-markup is.
+This utility is [licensed as github-markup](https://github.com/github/markup/blob/master/LICENSE) is.
 
