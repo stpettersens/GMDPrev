@@ -20,7 +20,7 @@ Dependencies
 * [redcarpet](http://rubygems.org/gems/redcarpet)
 * [github-markup](http://rubygems.org/gems/github-markup)
 
-Install with `gem install redcarpet github-markup`
+Install with `[sudo] gem install redcarpet github-markup`
 
 License
 -------
