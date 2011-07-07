@@ -1,0 +1,7 @@
+Gemfile
+Gemfile.lock
+README.markdown
+Rakefile
+bin/gmdprev
+lib/gmdprev.rb
+Manifest

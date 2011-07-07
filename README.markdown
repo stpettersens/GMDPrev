@@ -8,14 +8,24 @@ your markdown documents as they will appear in HTML on GitHub
 Usage
 -----
 
- `[ruby] gmdprev.rb file.markdown`
+ `[ruby] gmdprev file.markdown`
 
 On Ruby < 1.9, use:
 
-  `ruby -rubygems gmdprev.rb file.markdown`
+  `ruby -rubygems gmdprev file.markdown`
+
+
+Install
+-------
+gmdprev is available as a Ruby gem.
+Install with:
+
+`[sudo] gem install gmdprev`
 
 Dependencies
 ------------
+
+gmdprev depends on the following Ruby gems:
 
 * [redcarpet](http://rubygems.org/gems/redcarpet)
 * [github-markup](http://rubygems.org/gems/github-markup)
