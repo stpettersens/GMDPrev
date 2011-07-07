@@ -1,5 +1,9 @@
 #!/usr/bin/env ruby
 require 'gmdprev'
 
-GMDPrev.convert(ARGV[0])
+begin
+	GMDPrev.convert(ARGV[0])
+rescue
+	puts "Usage: gmdprev [file.markdown]"
+end
 

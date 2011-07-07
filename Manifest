@@ -1,6 +1,6 @@
 Gemfile
 Gemfile.lock
-README.markdown
+README.markdown.html
 Rakefile
 bin/gmdprev
 lib/gmdprev.rb
