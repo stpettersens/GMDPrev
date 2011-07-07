@@ -22,6 +22,7 @@ Dependencies
 ------------
 
 * Ruby 1.9+
+* RubyGems 1.8.5+
 
 gmdprev depends on the following Ruby gems:
 
