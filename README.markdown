@@ -1,19 +1,16 @@
 GMDPrev
 ======
 
-GMDPrev (_GitHub Markdown Preview_) allows you to preview
-your markdown documents as they will appear in HTML on GitHub
-(but without the CSS styling).
+GMDPrev (_GitHub Markdown Preview_) allows you to convert
+your Github flavored Markdown into HTML.
+
+Useful for getting a rough idea how the rendered Markdown
+will look on Github (without the CSS formatting).
 
 Usage
 -----
 
- `[ruby] gmdprev file.markdown`
-
-On Ruby < 1.9, use:
-
-  `ruby -rubygems gmdprev file.markdown`
-
+ `gmdprev file.markdown`
 
 Install
 -------
@@ -24,6 +21,8 @@ Install with:
 
 Dependencies
 ------------
+
+* Ruby 1.9+
 
 gmdprev depends on the following Ruby gems:
 
