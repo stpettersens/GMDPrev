@@ -21,15 +21,17 @@ Install with:
 Dependencies
 ------------
 
+Programs:
+
 * Ruby 1.9+
 * RubyGems 1.8.5+
 
-gmdprev depends on the following Ruby gems:
+Depends on the following Ruby gems, which should be retrieved automatically:
 
 * [redcarpet](http://rubygems.org/gems/redcarpet)
 * [github-markup](http://rubygems.org/gems/github-markup)
 
-Install with `[sudo] gem install redcarpet github-markup`
+Otherwise, install with `[sudo] gem install redcarpet github-markup`
 
 License
 -------
