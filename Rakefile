@@ -14,7 +14,7 @@ Echoe.new(name, '1.0.2') do |p|
 	p.runtime_dependencies = ["github-markup", "redcarpet"]
 end
 
-task :makegem => [:build] do
+task :makegem => [:build_gemspec] do
 	puts "Building gem..."
 	system("gem build #{name}.gemspec")
 end
