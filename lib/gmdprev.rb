@@ -14,4 +14,3 @@ module GMDPrev
 		File.open(file + '.html', 'w') { |f| f.write(html) }
 	end
 end
-
