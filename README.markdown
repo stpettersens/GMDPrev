@@ -21,7 +21,12 @@ First, you will need `echoe`:
 Then just:
 
 `rake manifest`
+
 `rake makegem`
+
+Install:
+
+`[sudo] gem install gmdprev-<version>.gem`
 
 Clean up with:
 
