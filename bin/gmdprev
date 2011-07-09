@@ -6,4 +6,3 @@ begin
 rescue
 	puts "Usage: gmdprev [file.markdown]"
 end
-.
