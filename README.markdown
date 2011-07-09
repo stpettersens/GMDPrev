@@ -10,6 +10,22 @@ Usage
 -----
 
  `gmdprev file.markdown`
+ 
+
+Build from source 
+-----------------
+First, you will need `echoe`:
+
+`[sudo] gem install echoe`
+
+Then just:
+
+`rake manifest`
+`rake makegem`
+
+Clean up with:
+
+`rake cleanup`
 
 Install
 -------
