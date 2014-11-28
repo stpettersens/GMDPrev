@@ -45,8 +45,9 @@ Programs:
 
 Depends on the following Ruby gems, which should be retrieved automatically:
 
-* [redcarpet](http://rubygems.org/gems/redcarpet)
 * [github-markup](http://rubygems.org/gems/github-markup)
+* [redcarpet](http://rubygems.org/gems/redcarpet)
+
 
 Otherwise, install with `[sudo] gem install redcarpet github-markup`
 
